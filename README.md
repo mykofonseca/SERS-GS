@@ -1,4 +1,3 @@
-
 # SERS Global Solution
 
 ## Sistema de Eficiência Energética e Sustentabilidade
@@ -48,7 +47,9 @@ Analisar dados de consumo energético e desenvolver soluções que contribuam pa
 
 1. Clone o repositório:
 
-```bash
+```
 git clone https://github.com/seu-usuario/sers-global-solution.git
 cd sers-global-solution
+pip install -r requirements.txt
+streamlit run app.py
 ```
