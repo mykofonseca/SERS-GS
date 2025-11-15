@@ -26,7 +26,6 @@ def setup_page():
     """Configuração inicial da página Streamlit"""
     st.set_page_config(
         page_title="SERS Global Solution",
-        page_icon="⚡",
         layout="wide",
         initial_sidebar_state="expanded"
     )
