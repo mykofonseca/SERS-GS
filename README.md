@@ -2,7 +2,10 @@
 
 ## Sistema de Eficiência Energética e Sustentabilidade
 
+### Vídeo de Apresentação [SERS Global Solution]([url](https://youtu.be/sfWzU4MzYbs))
+
 ### Sobre o Projeto
+
 
 O SERS Global Solution consiste em uma plataforma tecnológica desenvolvida para análise avançada de consumo energético e simulação de viabilidade técnica e econômica de implementação de energia solar em ambientes corporativos. A solução atende integralmente aos requisitos estabelecidos pelo projeto Global Solution, proporcionando uma abordagem data-driven para gestão energética.
 
