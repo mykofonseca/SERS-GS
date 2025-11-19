@@ -2,7 +2,7 @@
 
 ## Sistema de Eficiência Energética e Sustentabilidade
 
-### Vídeo de Apresentação [SERS Global Solution]([url](https://youtu.be/sfWzU4MzYbs))
+### Vídeo de Apresentação: https://youtu.be/sfWzU4MzYbs
 
 ### Sobre o Projeto
 
